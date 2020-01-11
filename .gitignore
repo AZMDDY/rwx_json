@@ -1,0 +1,7 @@
+/.vscode/
+/.idea/
+/build/
+/cmake*/
+/out/
+.clang-format
+*.json
